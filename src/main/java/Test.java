@@ -7,5 +7,8 @@
  */
 public class Test {
 
-    void a(){}
+    int a = 1;
+    boolean b = true;
+
+    
 }
